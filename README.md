@@ -12,13 +12,11 @@
 
 ## **Sumário**
 
-- [🔥 Descrição](#-1-descrição)
-- [🔥 Tecnologias Utilizadas](#-2-tecnologias-utilizadas)
-- [📊 Métodos de Recomendação](#-3-métodos-de-recomendação)
-  - [Filtragem Baseada em Conteúdo](#filtragem-baseada-em-conteúdo)
-  - [Filtragem Colaborativa](#filtragem-colaborativa)
-  - [Modelo Híbrido](#modelo-híbrido)
-- [🚀 O Que Esse Projeto Demonstra?](#-4-o-que-esse-projeto-demonstra)
+
+- [🔥 1. Descrição](#-1-descrição)
+- [🔥 2. Tecnologias Utilizadas](#-2-tecnologias-utilizadas)
+- [📊 3. Métodos de Recomendação](#-3-métodos-de-recomendação)
+- [🚀 4. O Que Esse Projeto Demonstra?](#-4-o-que-esse-projeto-demonstra)
 - [5. Funcionalidades](#5-funcionalidades)
 - [6. Como Rodar o Projeto](#6-como-rodar-o-projeto)
   - [Pré-requisitos](#pré-requisitos)
@@ -27,7 +25,24 @@
 - [🔗 Link para o Deploy](#link-para-o-deploy)
 - [7. Licença](#7-licença)
 
+---
 
+## 📊 **Métodos de Recomendação**  
+
+### 🔹 **Filtragem Baseada em Conteúdo**  
+- Recomenda itens **semelhantes** aos que o usuário já gostou, com base em atributos como **gênero, descrição, palavras-chave e atores**.  
+- Usa técnicas como **TF-IDF, similaridade do cosseno ou embeddings**.  
+
+### 🔹 **Filtragem Colaborativa**  
+- Analisa o **comportamento de outros usuários** com gostos semelhantes para sugerir novos conteúdos.  
+- Algoritmos como **kNN, SVD e Matrix Factorization**.  
+
+### 🔹 **Modelo Híbrido**  
+- **Combina** os dois métodos para um desempenho mais robusto.
+
+---
+
+Agora as ancoragens vão funcionar corretamente para seções como "Filtragem Baseada em Conteúdo", "Filtragem Colaborativa" e "Modelo Híbrido".
 
 
 # Movie Recommendation System
