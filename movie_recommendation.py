@@ -1,8 +1,21 @@
-pip install -r requirement.txt
+import subprocess
+import sys
 
+# Certifique-se de que todas as bibliotecas necessárias estão instaladas
+def install_requirements():
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+    except Exception as e:
+        print(f"Erro ao instalar dependências: {e}")
+
+# Chamar a função para instalar os requisitos antes de executar o código
+install_requirements()
+
+# Agora, importe os módulos normalmente
 from IPython.display import display
 import pandas as pd
 import numpy as np
+
 
 # Links corretos para os arquivos CSV
 credits_csv = "https://raw.githubusercontent.com/giuliabugatti09/Movie-Recommendation-System/main/tmdb_5000_credits.csv"
