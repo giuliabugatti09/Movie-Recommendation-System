@@ -10,4 +10,4 @@ streamlit-lottie==0.0.3
 protobuf==3.20.0
 tensorflow==2.8.0
 torch==1.10.0
-ipython==8.0.0
+IPython==8.0.0
