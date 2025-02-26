@@ -1,4 +1,3 @@
-!pip install pandas openpyxl
 from IPython.display import display
 import pandas as pd
 import numpy as np
