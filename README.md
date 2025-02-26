@@ -12,13 +12,13 @@
 
 ## **Sumário**
 
-- [🔥 Descrição](#1-descriçao)
-- [🔥 Tecnologias Utilizadas](#2-tecnologias-utilizadas)
-- [📊 Métodos de Recomendação](#3-métodos-de-recomendação)
+- [🔥 Descrição](#-1-descrição)
+- [🔥 Tecnologias Utilizadas](#-2-tecnologias-utilizadas)
+- [📊 Métodos de Recomendação](#-3-métodos-de-recomendação)
   - [Filtragem Baseada em Conteúdo](#filtragem-baseada-em-conteúdo)
   - [Filtragem Colaborativa](#filtragem-colaborativa)
   - [Modelo Híbrido](#modelo-híbrido)
-- [🚀 O Que Esse Projeto Demonstra?](#4-o-que-esse-projeto-demonstra)
+- [🚀 O Que Esse Projeto Demonstra?](#-4-o-que-esse-projeto-demonstra)
 - [5. Funcionalidades](#5-funcionalidades)
 - [6. Como Rodar o Projeto](#6-como-rodar-o-projeto)
   - [Pré-requisitos](#pré-requisitos)
@@ -27,7 +27,7 @@
 - [🔗 Link para o Deploy](#link-para-o-deploy)
 - [7. Licença](#7-licença)
 
----
+
 
 
 # Movie Recommendation System
