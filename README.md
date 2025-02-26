@@ -10,17 +10,7 @@
 
 - [@giuliabugatti09](https://www.github.com/giuliabugatti09)
 
-Claro! Aqui está o sumário com base no modelo que você me enviou:
-
----
-
-## **Table of Contents**
-
-Ah, entendi! Você quer que os links do sumário direcione diretamente para as seções correspondentes no seu README. Aqui está o sumário com os links direcionados corretamente:
-
----
-
-## **Table of Contents**
+## **Sumário**
 
 - [🔥 Descrição](#1-descriçao)
 - [🔥 Tecnologias Utilizadas](#2-tecnologias-utilizadas)
