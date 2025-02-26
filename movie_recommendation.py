@@ -9,7 +9,7 @@ st.title("🎬 Sistema de Recomendação de Filmes")
 st.write("Descubra filmes semelhantes aos seus favoritos com IA!")
 
 # Links dos datasets
-credits_csv = "https://raw.githubusercontent.com/giuliabugatti09/Movie-Recommendation-System/main/dataset/tmdb_5000_credits.csv"
+credits_csv = "https://raw.githubusercontent.com/giuliabugatti09/Movie-Recommendation-System/main/dataset/tmdb_5000_credit.csv"
 movies_csv = "https://raw.githubusercontent.com/giuliabugatti09/Movie-Recommendation-System/main/dataset/tmdb_5000_movies.csv"
 
 # Carregar os datasets
