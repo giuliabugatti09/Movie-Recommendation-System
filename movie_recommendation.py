@@ -1,3 +1,5 @@
+pip install -r requirement.txt
+
 from IPython.display import display
 import pandas as pd
 import numpy as np
