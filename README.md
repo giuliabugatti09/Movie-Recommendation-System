@@ -27,24 +27,6 @@
 
 ---
 
-## 📊 **Métodos de Recomendação**  
-
-### 🔹 **Filtragem Baseada em Conteúdo**  
-- Recomenda itens **semelhantes** aos que o usuário já gostou, com base em atributos como **gênero, descrição, palavras-chave e atores**.  
-- Usa técnicas como **TF-IDF, similaridade do cosseno ou embeddings**.  
-
-### 🔹 **Filtragem Colaborativa**  
-- Analisa o **comportamento de outros usuários** com gostos semelhantes para sugerir novos conteúdos.  
-- Algoritmos como **kNN, SVD e Matrix Factorization**.  
-
-### 🔹 **Modelo Híbrido**  
-- **Combina** os dois métodos para um desempenho mais robusto.
-
----
-
-Agora as ancoragens vão funcionar corretamente para seções como "Filtragem Baseada em Conteúdo", "Filtragem Colaborativa" e "Modelo Híbrido".
-
-
 # Movie Recommendation System
 
 ## **🔥 1. Descrição**  
