@@ -76,4 +76,3 @@ Developed by **Giulia Bugatti** *Artificial Intelligence Student at FIAP (Faculd
 
 ---
 **Dataset Source:** [Kaggle - TMDb 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-```
