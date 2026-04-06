@@ -1,9 +1,3 @@
-Seu `README.md` estava com uma estrutura muito boa, mas como você está no último ano de IA na **FIAP**, vamos dar aquele toque de **Sênior**. O segredo é equilibrar a explicação técnica (o "como") com o valor de negócio (o "porquê").
-
-Aqui está a versão corrigida, profissional e totalmente em inglês (essencial para o mercado de tech):
-
----
-
 ```markdown
 # 🎬 Movie Recommender AI: NLP-Powered Engine
 
