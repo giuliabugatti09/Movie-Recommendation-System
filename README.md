@@ -65,6 +65,7 @@ streamlit run app.py
 │   ├── tmdb_5000_credit.csv
 │   └── tmdb_5000_movies.csv
 ├── app.py              # Main Streamlit application
+├── LICENSE            # License file
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
 ```
